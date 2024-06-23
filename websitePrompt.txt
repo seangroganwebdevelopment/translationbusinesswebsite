@@ -1,0 +1,14 @@
+make a website for me with following elements: 
+homepage with hamburger navbar under 600 pixels,
+hero section with a strong headline and call-to-action button,
+brief introduction paragraph,
+language options (EN, FR, DE, IT),
+services page detailing translation services and specializations,
+portfolio section with showcased projects and client testimonials,
+about us page with biography and team member bios,
+blog page with regularly updated articles and categories,
+contact page with a form, contact information, and social media links,
+footer with quick links and language switcher,
+responsive design,
+SEO optimization,
+analytics integration.
